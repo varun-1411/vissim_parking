@@ -171,3 +171,12 @@ Notebooks/
 
 # ignore kia_parking.results folder
 kia_parking.results/
+
+# ignore results folder
+results/
+
+# ignore outputs folder
+outputs/
+
+# ignore kia_parking_8_001.err.lock file
+kia_parking_8_001.err.lock
